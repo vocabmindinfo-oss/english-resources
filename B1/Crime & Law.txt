@@ -1,0 +1,115 @@
+crime
+law
+justice
+court
+trial
+judge
+jury
+lawyer
+attorney
+defendant
+plaintiff
+prosecutor
+witness
+evidence
+testimony
+verdict
+sentence
+punishment
+penalty
+fine
+imprisonment
+jail
+prison
+cell
+parole
+probation
+bail
+arrest
+warrant
+conviction
+acquittal
+lawsuit
+appeal
+habeas corpus
+felony
+misdemeanor
+homicide
+murder
+manslaughter
+assault
+battery
+robbery
+burglary
+theft
+shoplifting
+pickpocketing
+fraud
+embezzlement
+bribery
+corruption
+blackmail
+extortion
+kidnapping
+abduction
+vandalism
+arson
+trespassing
+smuggling
+drug trafficking
+human trafficking
+cybercrime
+hacking
+forgery
+counterfeiting
+perjury
+defamation
+libel
+slander
+harassment
+stalking
+domestic violence
+organized crime
+gang
+cartel
+mafia
+terrorism
+radicalization
+money laundering
+identity theft
+espionage
+treason
+conspiracy
+self-defense
+justification
+alibi
+innocence
+guilt
+plea
+confession
+witness protection
+cross-examination
+prosecution
+defense
+public defender
+legal aid
+civil law
+criminal law
+constitutional law
+international law
+martial law
+common law
+statutory law
+regulation
+ordinance
+code
+contract
+agreement
+treaty
+sanction
+copyright
+patent
+trademark
+intellectual property
+legalization
+decriminalization

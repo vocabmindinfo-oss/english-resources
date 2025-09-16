@@ -1,0 +1,95 @@
+crime
+criminal
+law
+justice
+police
+officer
+detective
+thief
+robber
+burglar
+murderer
+kidnapper
+smuggler
+hacker
+fraud
+scammer
+victim
+witness
+suspect
+culprit
+prison
+jail
+arrest
+handcuffs
+trial
+judge
+lawyer
+court
+sentence
+verdict
+punishment
+fine
+bail
+parole
+probation
+forgery
+blackmail
+bribery
+corruption
+shoplifting
+pickpocket
+vandalism
+trespassing
+assault
+homicide
+manslaughter
+drug trafficking
+human trafficking
+money laundering
+cybercrime
+identity theft
+terrorism
+hijacking
+arson
+domestic violence
+self-defense
+pepper spray
+emergency
+911
+security
+alarm
+surveillance
+CCTV
+lock
+safe
+password
+fire extinguisher
+first aid
+ambulance
+helmet
+seatbelt
+warning
+hazard
+danger
+protection
+escape
+evacuation
+report
+investigation
+evidence
+clue
+fingerprint
+DNA
+motive
+alibi
+testimony
+confession
+
+
+
+
+
+
+
+

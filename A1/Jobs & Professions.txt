@@ -1,0 +1,88 @@
+accountant
+actor
+actress
+architect
+artist
+astronaut
+athlete
+baker
+banker
+barber
+bartender
+blacksmith
+blogger
+butcher
+carpenter
+cashier
+chef
+coach
+comedian
+composer
+construction worker
+consultant
+cook
+dancer
+dentist
+designer
+detective
+doctor
+driver
+editor
+electrician
+engineer
+farmer
+fashion designer
+firefighter
+fisherman
+flight attendant
+florist
+gardener
+hairdresser
+journalist
+judge
+lawyer
+librarian
+lifeguard
+magician
+manager
+mechanic
+military officer
+model
+musician
+nurse
+optician
+painter
+paramedic
+pharmacist
+photographer
+pilot
+plumber
+poet
+police officer
+politician
+postman
+professor
+programmer
+psychologist
+real estate agent
+receptionist
+reporter
+researcher
+sailor
+salesperson
+scientist
+secretary
+security guard
+singer
+soldier
+surgeon
+tailor
+taxi driver
+teacher
+translator
+travel agent
+truck driver
+veterinarian
+waiter
+waitress
+writer

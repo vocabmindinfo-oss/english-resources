@@ -1,0 +1,99 @@
+vehicle
+car
+bus
+truck
+motorcycle
+bicycle
+scooter
+train
+tram
+subway
+metro
+taxi
+cab
+airplane
+helicopter
+boat
+ship
+ferry
+yacht
+van
+jeep
+minivan
+ambulance
+firetruck
+police car
+highway
+road
+street
+avenue
+boulevard
+alley
+intersection
+crosswalk
+traffic light
+stop sign
+roundabout
+bridge
+tunnel
+railway
+railroad
+station
+platform
+ticket
+fare
+passenger
+driver
+pilot
+captain
+conductor
+mechanic
+license
+helmet
+seatbelt
+speed limit
+traffic jam
+rush hour
+accident
+collision
+roadblock
+detour
+shortcut
+fuel
+gasoline
+diesel
+electric car
+charging station
+parking
+parking lot
+garage
+toll booth
+sidewalk
+pedestrian
+bicycle lane
+one-way
+two-way
+zebra crossing
+bus stop
+taxi stand
+departure
+arrival
+delay
+boarding
+check-in
+luggage
+compass
+map
+GPS
+navigation
+ride-sharing
+carpool
+ticket inspector
+
+
+
+
+
+
+
+

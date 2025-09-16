@@ -1,0 +1,84 @@
+home
+house
+apartment
+room
+living room
+bedroom
+kitchen
+bathroom
+dining room
+guest room
+study room
+balcony
+garden
+yard
+garage
+hallway
+stairs
+attic
+basement
+roof
+ceiling
+wall
+floor
+door
+window
+curtain
+blinds
+carpet
+rug
+lamp
+chandelier
+light bulb
+sofa
+couch
+armchair
+chair
+stool
+bench
+table
+coffee table
+dining table
+desk
+bookshelf
+cabinet
+wardrobe
+closet
+drawer
+dresser
+mirror
+bed
+bunk bed
+mattress
+pillow
+blanket
+bedsheet
+quilt
+nightstand
+alarm clock
+television
+remote control
+fan
+air conditioner
+heater
+fireplace
+refrigerator
+freezer
+oven
+stove
+microwave
+toaster
+blender
+kettle
+coffeemaker
+sink
+faucet
+dishwasher
+washing machine
+dryer
+iron
+ironing board
+trash can
+broom
+mop
+vacuum cleaner

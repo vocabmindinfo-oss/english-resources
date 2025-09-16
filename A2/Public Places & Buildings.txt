@@ -1,0 +1,69 @@
+park
+square
+street
+road
+highway
+bridge
+tunnel
+sidewalk
+crosswalk
+intersection
+roundabout
+plaza
+market
+supermarket
+mall
+shop
+store
+restaurant
+cafe
+bakery
+butcher
+pharmacy
+hospital
+clinic
+school
+university
+library
+museum
+theater
+cinema
+stadium
+gym
+swimming pool
+zoo
+aquarium
+amusement park
+theme park
+church
+temple
+mosque
+cathedral
+synagogue
+monument
+statue
+castle
+palace
+fortress
+tower
+skyscraper
+hotel
+motel
+hostel
+airport
+station
+bus stop
+train station
+subway
+harbor
+port
+factory
+warehouse
+office
+post office
+bank
+police station
+fire station
+courthouse
+city hall
+embassy
